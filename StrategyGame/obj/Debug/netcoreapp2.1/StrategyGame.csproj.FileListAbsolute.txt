@@ -1,0 +1,11 @@
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\bin\Debug\netcoreapp2.1\StrategyGame.deps.json
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\bin\Debug\netcoreapp2.1\StrategyGame.runtimeconfig.json
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\bin\Debug\netcoreapp2.1\StrategyGame.runtimeconfig.dev.json
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\bin\Debug\netcoreapp2.1\StrategyGame.dll
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\bin\Debug\netcoreapp2.1\StrategyGame.pdb
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.csprojAssemblyReference.cache
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.csproj.CoreCompileInputs.cache
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.AssemblyInfoInputs.cache
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.AssemblyInfo.cs
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.dll
+C:\Users\ivandeal\source\repos\StrategyGame\StrategyGame\obj\Debug\netcoreapp2.1\StrategyGame.pdb
