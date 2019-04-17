@@ -134,7 +134,6 @@ namespace StrategyGame
         public bool bPlayerCharacterKnowsSlyvan = false;
         public bool bPlayerCharacterKnowsundercommon = false;
 
-
         public PlayerCharacter()
         {
             PlayerRace chosenRace = new PlayerRace();
